@@ -3,7 +3,9 @@
 This script expects some tools to be installed on your `PATH`, namely:
 
 [youtube-dl](https://youtube-dl.org)
+
 [ffmpeg](https://ffmpeg.org/download.html)
+
 [normalize](https://github.com/gonutz/normalize)
 
 
