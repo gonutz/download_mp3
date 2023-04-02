@@ -4,6 +4,8 @@ This script expects some tools to be installed on your `PATH`, namely:
 
 [youtube-dl](https://youtube-dl.org)
 
+[yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)
+
 [ffmpeg](https://ffmpeg.org/download.html)
 
 [normalize](https://github.com/gonutz/normalize)
